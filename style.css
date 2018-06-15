@@ -1,0 +1,56 @@
+li > span {
+	font-weight: bold;
+}
+
+li {
+	list-style: none;
+}
+
+ul {
+	padding: 0px;
+	margin-top: 0px;
+	margin-bottom: 8px;
+	box-shadow: 1px 1px 8px 0px rgba(0,0,0,0.26);
+}
+
+h3{
+	box-shadow: 3px 3px 8px 0px rgba(0,0,0,0.26);
+	margin-top: 0px;
+	margin-bottom: 8px;
+background-color: #ff66;
+  color: navy;
+}
+
+img {
+/* 	border: 1px solid grey; */
+    border-radius: 8px;
+    box-shadow: 3px 3px 8px 0px rgba(0,,0,0.26);
+    margin-bottom: 8px;
+width: 100%
+}
+
+#card {
+  width: 302px;
+  margin: 0 auto;
+  box-shadow: 3px 3px 8px 0px rgba(0,0,0,0.26);
+}
+
+.animal-fact{
+	font-style: ;
+	margin-top: 0px;
+	margin-bottom: 8px;
+	box-shadow: 1px 1px 8px 0px rgba(0,0,0,0.26);
+}
+
+.animal-info{
+	margin-top: 0px;
+	margin-bottom: 0px;
+	box-shadow: 1px 1px 8px 0px rgba(0,0,0,0.26);
+}
+
+#card, ul, h3, p.animal-fact, p.animal-info {
+  border: 0.5px solid #31b3e4;
+  padding: 10px;
+  border-radius: 12px;
+  width: auto;
+}
